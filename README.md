@@ -13,7 +13,7 @@ from scratch and figuring out why they don't behave the way I expected.
   whether an LLM can reach it. 0.47% false-positive rate.
   `pipx install reachscan` · [What I found scanning 50 MCP servers](https://medium.com/@vinmayN/i-scanned-50-mcp-servers-to-see-what-they-can-actually-do-46144659ceca)
 - **[doppel](https://github.com/vinmay/doppel)**: On-device semantic scavenger
-  hunt using EmbeddingGemma. Runs fully in the browser. [Live demo](URL)
+  hunt using EmbeddingGemma. Runs fully in the browser. [Live demo](https://doppel-ws59.onrender.com/)
 - **[ratchet](https://github.com/vinmay/ratchet)**: Building a language model
   from scratch in NumPy: autograd, layers, attention, transformer. No ML
   framework. *In progress.*
